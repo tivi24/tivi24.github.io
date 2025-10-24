@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-epg="210" tvg-id="1" tvg-name="" tvg-logo="https://tivi24.github.io/logo/vtv1.png",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-epg="377" tvg-id="2" tvg-name="" tvg-logo="https://tivi24.github.io/logo/vtv2.png",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-epg="211" tvg-id="3" tvg-name="" tvg-logo="https://tivi24.github.io/logo/vtv3.png",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
