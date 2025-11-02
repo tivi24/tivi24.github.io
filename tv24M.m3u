@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv1.png",VTV1
+https://liveh12.vtvprime.vn/hls/VTV1_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv2.png",VTV2
+https://liveh12.vtvprime.vn/hls/VTV2_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv3.png",VTV3
+https://liveh12.vtvprime.vn/hls/VTV3_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv4.png",VTV4
+https://liveh12.vtvprime.vn/hls/VTV4_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv5.png",VTV5
+https://liveh12.vtvprime.vn/hls/VTV5_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv5taynguyen.png",VTV5 TÂY NGUYÊN
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv5taynambo.png",VTV5 TÂY NAM BỘ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv7.png",VTV7
+https://liveh12.vtvprime.vn/hls/VTV7_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv8.png",VTV8
+https://liveh12.vtvprime.vn/hls/VTV8_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtv9.png",VTV9
+https://liveh12.vtvprime.vn/hls/VTV9_HD/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivi24.github.io/logo/vtvcantho.png",VTV CẦN THƠ
+https://liveh12.vtvprime.vn/hls/VTVCANTHO_HD/04.m3u8
