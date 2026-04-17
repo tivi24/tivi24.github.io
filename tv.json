@@ -1,28 +1,306 @@
 [
-  { "type": "group", "name": "VTV" },
+  {
+    "id": "1",
+    "name": "VTV1",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv1.png",
+    "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "VTV2",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv2.png",
+    "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "VTV3",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv3.png",
+    "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "VTV4",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv4.png",
+    "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "VTV5",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv5.png",
+    "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "VTV5 TÂY NGUYÊN",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv5taynguyen.png",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "VTV5 TÂY NAM BỘ",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv5taynambo.png",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "VTV7",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv7.png",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "VTV8",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv8.png",
+    "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "VTV9",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtv9.png",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "VTV CẦN THƠ",
+    "group": "VTV",
+    "logo": "https://tivi24.github.io/logo/vtvcantho.png",
+    "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8"
+  },
 
-  { "type": "channel", "name": "VTV1", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv1.png", "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV2", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv2.png", "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV3", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv3.png", "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV4", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv4.png", "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV5", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv5.png", "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8" },
-  { "type": "channel", "name": "VTV5 TÂY NGUYÊN", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv5taynguyen.png", "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV5 TÂY NAM BỘ", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv5taynambo.png", "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV7", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv7.png", "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV8", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv8.png", "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV9", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtv9.png", "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8" },
-  { "type": "channel", "name": "VTV10", "group": "VTV", "logo": "https://tivi24.github.io/logo/vtvcantho.png", "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8" },
+  {
+    "id": "12",
+    "name": "ON VIE GIẢI TRÍ",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab1.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180"
+  },
+  {
+    "id": "13",
+    "name": "ON PHIM VIỆT",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab2.png",
+    "url": "http://dvrfl05.bozztv.com/vch_vchannel4/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "ON SPORTS",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab3.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid="
+  },
+  {
+    "id": "15",
+    "name": "ON MOVIES",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab4.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181"
+  },
+  {
+    "id": "16",
+    "name": "ON ECHANNEL",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab5.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182"
+  },
+  {
+    "id": "17",
+    "name": "ON SPORTS PLUS",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab6.png",
+    "url": "https://mobile-web.stream.onlive.vn/live-stm-04/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.J8Du7rdfA0vhwjO6n57g5iyazU7gyBLoGT_S-zT-XpCLgINRC0nh-A8DJGe_TasznDi-WHUvJrOFror8awDrJQ"
+  },
+  {
+    "id": "18",
+    "name": "ON O2TV",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab7.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+  },
+  {
+    "id": "19",
+    "name": "ON BIBI",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab8.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178"
+  },
+  {
+    "id": "20",
+    "name": "ON INFO TV",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab9.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189"
+  },
+  {
+    "id": "21",
+    "name": "ON CINE",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab10.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+  },
+  {
+    "id": "22",
+    "name": "ON STYLE TV",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab12.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+  },
+  {
+    "id": "24",
+    "name": "ON FOOTBALL",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab16.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid="
+  },
+  {
+    "id": "25",
+    "name": "ON TRENDING TV",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab17.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186"
+  },
+  {
+    "id": "26",
+    "name": "ON SPORTS NEWS",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab18.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid="
+  },
+  {
+    "id": "27",
+    "name": "ON VIEDRAMA",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab19.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+  },
+  {
+    "id": "28",
+    "name": "ON VFAMILY",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab20.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187"
+  },
+  {
+    "id": "29",
+    "name": "ON KIDS",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab21.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179"
+  },
+  {
+    "id": "30",
+    "name": "ON LIFE",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab22.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+  },
+  {
+    "id": "31",
+    "name": "ON GOLF",
+    "group": "VTVcab",
+    "logo": "https://tivi24.github.io/logo/vtvcab23.png",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=169"
+  },
 
-  { "type": "group", "name": "VTVcab" },
+  {
+    "id": "32",
+    "name": "HTV THỂ THAO",
+    "group": "HTV",
+    "logo": "https://tivi24.github.io/logo/htvthethao.png",
+    "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "HTV1",
+    "group": "HTV",
+    "logo": "https://tivi24.github.io/logo/htv1.png",
+    "url": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "HTV2",
+    "group": "HTV",
+    "logo": "https://tivi24.github.io/logo/htv2.png",
+    "url": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "HTV3",
+    "group": "HTV",
+    "logo": "https://tivi24.github.io/logo/htv3.png",
+    "url": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "HTVKEY",
+    "group": "HTV",
+    "logo": "https://tivi24.github.io/logo/htvkey.png",
+    "url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "HTV7",
+    "group": "HTV",
+    "logo": "https://tivi24.github.io/logo/htv7.png",
+    "url": "https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "HTV9",
+    "group": "HTV",
+    "logo": "https://tivi24.github.io/logo/htv9.png",
+    "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8"
+  },
 
-  { "type": "channel", "name": "ON VIE GIẢI TRÍ", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab1.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180" },
-  { "type": "channel", "name": "ON PHIM VIỆT", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab2.png", "url": "http://dvrfl05.bozztv.com/vch_vchannel4/index.m3u8" },
-  { "type": "channel", "name": "ON SPORTS", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab3.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=" },
-  { "type": "channel", "name": "ON MOVIES", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab4.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181" },
-  { "type": "channel", "name": "ON ECHANNEL", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab5.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182" },
-  { "type": "channel", "name": "ON SPORTS PLUS", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab6.png", "url": "https://mobile-web.stream.onlive.vn/live-stm-04/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.J8Du7rdfA0vhwjO6n57g5iyazU7gyBLoGT_S-zT-XpCLgINRC0nh-A8DJGe_TasznDi-WHUvJrOFror8awDrJQ" },
-  { "type": "channel", "name": "ON O2TV", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab7.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136" },
-  { "type": "channel", "name": "ON BIBI", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab8.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178" },
-  { "type": "channel", "name": "ON INFO TV", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab9.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189" },
-  { "type": "channel", "name": "ON CINE", "group": "VTVcab", "logo": "https://tivi24.github.io/logo/vtvcab10.png", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176" }
+  {
+    "id": "39",
+    "name": "HTVC PLUS",
+    "group": "HTVC",
+    "logo": "https://tivi24.github.io/logo/htvcplus.png",
+    "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "HTVC PHIM",
+    "group": "HTVC",
+    "logo": "https://tivi24.github.io/logo/phim.png",
+    "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "HTVC THUẦN VIỆT",
+    "group": "HTVC",
+    "logo": "https://tivi24.github.io/logo/thuanviet.png",
+    "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "HTVC GIA ĐÌNH",
+    "group": "HTVC",
+    "logo": "https://tivi24.github.io/logo/giadinh.png",
+    "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "HTVC PHỤ NỮ",
+    "group": "HTVC",
+    "logo": "https://tivi24.github.io/logo/phunu.png",
+    "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "HTVC DU LỊCH",
+    "group": "HTVC",
+    "logo": "https://tivi24.github.io/logo/phunu.png",
+    "url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8"
+  }
 ]
